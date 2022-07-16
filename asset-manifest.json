@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/canadian_amateur_radio_exam/static/css/main.98199c7d.css",
-    "main.js": "/canadian_amateur_radio_exam/static/js/main.59967408.js",
+    "main.css": "/canadian_amateur_radio_exam/static/css/main.9e430686.css",
+    "main.js": "/canadian_amateur_radio_exam/static/js/main.f24c001a.js",
     "static/js/787.679ee816.chunk.js": "/canadian_amateur_radio_exam/static/js/787.679ee816.chunk.js",
     "index.html": "/canadian_amateur_radio_exam/index.html",
-    "main.98199c7d.css.map": "/canadian_amateur_radio_exam/static/css/main.98199c7d.css.map",
-    "main.59967408.js.map": "/canadian_amateur_radio_exam/static/js/main.59967408.js.map",
+    "main.9e430686.css.map": "/canadian_amateur_radio_exam/static/css/main.9e430686.css.map",
+    "main.f24c001a.js.map": "/canadian_amateur_radio_exam/static/js/main.f24c001a.js.map",
     "787.679ee816.chunk.js.map": "/canadian_amateur_radio_exam/static/js/787.679ee816.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98199c7d.css",
-    "static/js/main.59967408.js"
+    "static/css/main.9e430686.css",
+    "static/js/main.f24c001a.js"
   ]
 }
