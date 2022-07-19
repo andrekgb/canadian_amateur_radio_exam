@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/canadian_amateur_radio_exam/static/css/main.9e430686.css",
-    "main.js": "/canadian_amateur_radio_exam/static/js/main.f5e4fc7e.js",
+    "main.js": "/canadian_amateur_radio_exam/static/js/main.b192ac77.js",
     "static/js/787.679ee816.chunk.js": "/canadian_amateur_radio_exam/static/js/787.679ee816.chunk.js",
     "index.html": "/canadian_amateur_radio_exam/index.html",
     "main.9e430686.css.map": "/canadian_amateur_radio_exam/static/css/main.9e430686.css.map",
-    "main.f5e4fc7e.js.map": "/canadian_amateur_radio_exam/static/js/main.f5e4fc7e.js.map",
+    "main.b192ac77.js.map": "/canadian_amateur_radio_exam/static/js/main.b192ac77.js.map",
     "787.679ee816.chunk.js.map": "/canadian_amateur_radio_exam/static/js/787.679ee816.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e430686.css",
-    "static/js/main.f5e4fc7e.js"
+    "static/js/main.b192ac77.js"
   ]
 }
